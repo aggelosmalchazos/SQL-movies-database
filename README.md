@@ -22,3 +22,5 @@ Query 9 returns the number of directors that have directed both genres, for each
 Query 10 returns the number of movies in the genre that the actor has played in, for each genre and actor, as long as the movies don't have a director that has directed a different genre.
 
 This project was completed for the course Design and Use of Database Systems, by professor Maria Roussou, Department of Informatics and Telecommunications(DIT), University of Athens (UOA). More information can be found here:https://www.di.uoa.gr/en/studies/undergraduate/27
+
+Project utilizes MySQL Workbench 8.0 and Server.
